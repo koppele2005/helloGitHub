@@ -20,11 +20,7 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
-    //second checked in
-    
-    //testing moruk
-    
-    // wow it is amazing how this works , great
+    //one more
 
 }
 
